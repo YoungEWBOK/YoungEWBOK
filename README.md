@@ -1,4 +1,4 @@
-- 👋 YoungEWBOK from NUAA.In ChangeKong College now.
+- 👋 YoungEWBOK from NUAA.  In ChangeKong College now.
 - 🌱 Python & C++ 
 - 📫 Reach me 092290209@nuaa.edu.cn
 <div>
