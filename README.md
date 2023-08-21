@@ -1,7 +1,8 @@
-- 👋 YoungEWBOK from NUAA.
-- <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/pigeon.png" width="20" />  In ChangeKong College now.
+- 👋 YoungEWBOK from NUAA
+- 📖 In ChangeKong College now
 - 🌱 Python & C++ 
 - 📫 Reach me 092290209@nuaa.edu.cn
+- 😺 Keep Marching On
 <div>
   <h2 align="center">
     <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/inspiration.png" width="40" />
