@@ -1,6 +1,5 @@
 - 👋 YoungEWBOK from NUAA
-- 📖 In ChangKong College now
-- 🌱 Python & C++ 
+- 📖 Artificial Intelligence
 - 📫 Reach me 092290209@nuaa.edu.cn
 - 😺 Keep Marching On
 <div>
