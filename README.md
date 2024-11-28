@@ -1,6 +1,6 @@
 - 👋 YoungEWBOK from NUAA
-- 📖 Artificial Intelligence
-- 📫 Reach me 092290209@nuaa.edu.cn
+- 📖 Major in Artificial Intelligence, A Newcomer in VLN
+- 📫 Contact me via 092290209@nuaa.edu.cn
 - 😺 Keep Marching On
 <div>
   <h2 align="center">
