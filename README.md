@@ -1,4 +1,3 @@
-- 📖 Major in Artificial Intelligence, a newcomer in VLN
 - 😺 Keep Marching On
 <div>
   <h2 align="center">
