@@ -2,7 +2,6 @@
 <div>
   <h2 align="center">
     <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/inspiration.png" width="40" />
-      Concentrate. Concentrate. Concentrate.
 </div>
 <!---
 YoungEWBOK/YoungEWBOK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
